@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://sulaimanal-huwaiti.netlify.app/sitemap.xml
+
+Sitemap: https://sulaiman-alhuwaiti.netlify.app/sitemap.xml
 
