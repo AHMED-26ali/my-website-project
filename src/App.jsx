@@ -364,7 +364,7 @@ function App() {
       </section>
 
       {/* قسم الخدمات المحسن */}
-      <section id="services" className="py-20 scroll-mt-[70px] scroll-reveal">e-900 to-slate-800 relative scroll-mt-[70px]">
+      <section id="services" className="py-20 scroll-mt-[70px] scroll-reveal">
         <div className="container mx-auto px-6">
           <div className="text-center mb-16 scroll-reveal">
             <motion.div
