@@ -344,7 +344,10 @@ function App() {
         >
           <img src={heroImage} alt="ميناء مستقبلي" className="w-full h-64 object-cover" />
         </motion.div>
-      </sect      <section id="about" className="py-20 scroll-mt-[70px] scroll-reveal">
+        </motion.div>
+      </section>
+      {/* تم تصحيح الخطأ في السطر 347 - محاولة أخيرة */}
+      <section id="about" className="py-20 scroll-mt-[70px] scroll-reveal">
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-4xl font-bold mb-12 bg-gradient-to-r from-cyan-400 to-amber-400 bg-clip-text text-transparent">من نحن؟</h2>
           <div className="max-w-4xl mx-auto text-gray-300 leading-relaxed text-lg">
